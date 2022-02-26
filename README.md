@@ -1,4 +1,4 @@
-# projX-la-thunderbird
+# proj96-la-thunderbird
 
 ## 项目名称
 
